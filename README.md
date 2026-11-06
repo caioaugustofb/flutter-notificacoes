@@ -2,13 +2,7 @@
 
 Atividade Prática 4 — Notificações Push (Flutter + Firebase Cloud Messaging).
 
-App de agenda de eventos de tecnologia em Belém. A tela inicial lista os próximos eventos e a tela de detalhes mostra data, horário, local e descrição de cada um. As notificações avisam o usuário sobre a agenda:
-
-| Desafio | Situação | Por que notificar |
-|---|---|---|
-| 1. Simples | Inscrições abertas para um evento | Aviso curto, só precisa de título e texto |
-| 2. Com imagem | Destaque da semana, com o banner do evento | A imagem chama atenção e mostra o evento antes de abrir o app |
-| 3. Com navegação | Lembrete de que o evento começa em breve | Tocar no aviso já abre os detalhes (horário e local), que é o que a pessoa precisa nessa hora |
+App de agenda de eventos de tecnologia em Belém. A tela inicial lista os próximos eventos e a tela de detalhes mostra data, horário, local e descrição de cada um. As notificações avisam o usuário sobre a agenda.
 
 ## Como funciona
 
